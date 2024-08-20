@@ -17,7 +17,7 @@ if not DISCORD_BOT_TOKEN:
     print(f"{Fore.RED}Error: TOKEN environment variable not set.{Style.RESET_ALL}")
     exit()
 
-PROFILE_IMAGE_URL = "YOU AVATAR LINK"
+PROFILE_IMAGE_URL = "https://cdn.discordapp.com/attachments/1270790623732957357/1275314998066937876/standard.gif?ex=66c57125&is=66c41fa5&hm=7b4ede9df8ad1c78b8168e50ff94c15089b9832f15744344f5ca35e6143f79c7&"
 BANNER_IMAGE_URL = "YOU BANNER LINK"
 
 payload = {}
